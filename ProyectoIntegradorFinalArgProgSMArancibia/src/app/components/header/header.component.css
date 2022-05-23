@@ -1,7 +1,12 @@
 div {background-color: deeppink;
 }
 
+logo-app{
+    float: left;
+    margin-top: 0px;
+}
+
 app-social{
     float: right;
-    margin-top: 25px;
+    margin-top: 0px;
 }
