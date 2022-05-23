@@ -1,1 +1,7 @@
-div {background-color: deeppink;}
+div {background-color: deeppink;
+}
+
+app-social{
+    float: right;
+    margin-top: 25px;
+}
