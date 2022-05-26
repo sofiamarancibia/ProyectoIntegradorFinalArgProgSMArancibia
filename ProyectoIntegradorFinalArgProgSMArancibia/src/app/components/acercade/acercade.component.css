@@ -5,10 +5,22 @@ div {
     background-color: deeppink;
 }
 
+
+/*Estilo Foto de Perfil*/
+@media(min-width: 576px){
+    #fotodeperfil
+    {
+        position:absolute;
+        width: 15%;
+        border-radius: 100%;
+        box-shadow: 3px 3px 3px rosybrown;
+    }
+}
+
 /*etiqueta nombre*/
 #nombre{
 
     font-weight: bold;
-    margin-top: 40%;
+    margin-top: 30%;
     margin-left: 10PX;
 }
